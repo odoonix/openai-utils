@@ -128,11 +128,10 @@ def process(folder: str):
             else:
                 typer.secho(f"⚠️ No valid Q&A pairs found in '{filename}'", fg=typer.colors.YELLOW)
 
-            if parse_invalid_count:
+            if parse_invalid_count > 0:
                 typer.secho(
-                    f"⚠️ Skipped {parse_invalid_count} incomplete Q&A blocks in '{filename}' (missing question or answer)",
-                    fg=typer.colors.MAGENTA
-                )
+                    f"⚠️ {parse_invalid_count} incomplete Q&A blocks found in '{filename}' (either question or answer was missing)",
+                    fg=typer.colors.MAGENTA)
 
         except UnicodeDecodeError:
             typer.secho(f"❌ Encoding error in file: {filename}", fg=typer.colors.RED)
