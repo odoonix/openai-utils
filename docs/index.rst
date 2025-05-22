@@ -1,8 +1,8 @@
 ============
-openai_utils
+openai_moonsun_utils
 ============
 
-This is the documentation of **openai_utils**.
+This is the documentation of **openai_moonsun_utils**.
 
 .. note::
 

@@ -1,6 +1,6 @@
 import pytest
 
-from openai_utils.skeleton import fib, main
+from openai_moonsun_utils.skeleton import fib, main
 
 __author__ = "maso"
 __copyright__ = "maso"

@@ -1,5 +1,5 @@
 """
-    Setup file for openai_utils.
+    Setup file for openai_moonsun_utils.
     Use setup.cfg to configure your project.
 
     This file was generated with PyScaffold 4.6.
