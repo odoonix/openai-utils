@@ -1,27 +1,27 @@
 .. These are examples of badges you might want to add to your README:
    please update the URLs accordingly
 
-    .. image:: https://api.cirrus-ci.com/github/<USER>/openai-utils.svg?branch=main
+    .. image:: https://api.cirrus-ci.com/github/<USER>/openai_utils.svg?branch=main
         :alt: Built Status
-        :target: https://cirrus-ci.com/github/<USER>/openai-utils
-    .. image:: https://readthedocs.org/projects/openai-utils/badge/?version=latest
+        :target: https://cirrus-ci.com/github/<USER>/openai_utils
+    .. image:: https://readthedocs.org/projects/openai_utils/badge/?version=latest
         :alt: ReadTheDocs
-        :target: https://openai-utils.readthedocs.io/en/stable/
-    .. image:: https://img.shields.io/coveralls/github/<USER>/openai-utils/main.svg
+        :target: https://openai_utils.readthedocs.io/en/stable/
+    .. image:: https://img.shields.io/coveralls/github/<USER>/openai_utils/main.svg
         :alt: Coveralls
-        :target: https://coveralls.io/r/<USER>/openai-utils
-    .. image:: https://img.shields.io/pypi/v/openai-utils.svg
+        :target: https://coveralls.io/r/<USER>/openai_utils
+    .. image:: https://img.shields.io/pypi/v/openai_utils.svg
         :alt: PyPI-Server
-        :target: https://pypi.org/project/openai-utils/
-    .. image:: https://img.shields.io/conda/vn/conda-forge/openai-utils.svg
+        :target: https://pypi.org/project/openai_utils/
+    .. image:: https://img.shields.io/conda/vn/conda-forge/openai_utils.svg
         :alt: Conda-Forge
-        :target: https://anaconda.org/conda-forge/openai-utils
-    .. image:: https://pepy.tech/badge/openai-utils/month
+        :target: https://anaconda.org/conda-forge/openai_utils
+    .. image:: https://pepy.tech/badge/openai_utils/month
         :alt: Monthly Downloads
-        :target: https://pepy.tech/project/openai-utils
+        :target: https://pepy.tech/project/openai_utils
     .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
         :alt: Twitter
-        :target: https://twitter.com/openai-utils
+        :target: https://twitter.com/openai_utils
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
@@ -30,7 +30,7 @@
 |
 
 ============
-openai-utils
+openai_utils
 ============
 
 

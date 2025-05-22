@@ -1,8 +1,8 @@
 ============
-openai-utils
+openai_utils
 ============
 
-This is the documentation of **openai-utils**.
+This is the documentation of **openai_utils**.
 
 .. note::
 
